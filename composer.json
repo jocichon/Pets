@@ -1,0 +1,12 @@
+{
+  "name": "jocichon/328/Pets",
+  "authors": [
+    {
+      "name": "Jo Cichon",
+      "email": "cichon.jo@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
